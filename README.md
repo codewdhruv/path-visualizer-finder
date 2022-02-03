@@ -1,5 +1,4 @@
-# Try this yourself.
-### [Path Finding Visualizer](https://suhaan-bhandary.github.io/Path-Finding-Visualizer/)
+# Path Visualizer Finder.
 
 # Getting Started with Create React App
 
